@@ -10,7 +10,7 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 ### 0. FILES MANIFEST.
 
-php-retriever-main (entries with * are files added/edited to base framework)
+php-retriever-main (entries with * are files added/edited to/in base framework)
 |
 ├── configuration.php 
 ├── database.php 
