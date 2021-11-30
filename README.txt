@@ -41,7 +41,7 @@ php-retriever-main (entries with * are files added/edited to/in base framework)
 |       └── 404.php 
 |
 └── public_html 
-    ├── .htaccess 
+    └── .htaccess 
 	├── index.php 
 	├── css 
 	│   └── bootstrap 
